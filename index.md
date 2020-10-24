@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+	<title>about me.html</title>
+</head>
+<body>
+<h1>About Halima Aqraa</h1>	
+ <p>MY name is Halima,21 years old,<span>love myself </span></p>
+<h2>My Classes This Semester </h2>
+<ul>
+<li>Web-development</li>
+<li>Operating System </li>
+<li>Opertaing System lab</li>
+<li>Database</li>
+<li>Database Lab</li>
+<li>Microprocessor Lab</li>
+<li>Multimedia</li>
+<li>Arabic</li>
+</ul>
 
-You can use the [editor on GitHub](https://github.com/haleemaalaqrah/halima/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>My Favorite Books </h2>
+<ol>
+<li>Unlaced <a href="https://www.bookbub.com/ebook-deals/free-ebooks">(ebook)</a>
+</li>
+<li>Hired to Kill</li>
+<li>To Kill a Mockingbird</li>
+</ol >
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haleemaalaqrah/halima/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>My MOODS</h2>
+<h4>HAPPY !!</h4><img src="https://cms.qz.com/wp-content/uploads/2017/04/happiness-is-a-problem.jpg?quality=75&strip=all&w=1600&h=900&crop=1" alt="HAPPY!" >
+<h4>SAD!!</h4><img src="https://worldofweirdthings.com/wp-content/uploads/sadness_1200-600x450.jpg" alt="SAD!">
+<h2>FUN Facts About <span> My Neighbors</span></h2>
+<ul>
+<li>They have dogs</li>
+<li>They are artists</li>
+</ul>
+</body>
+</html>
